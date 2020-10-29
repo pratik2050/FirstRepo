@@ -9,6 +9,6 @@ int main()
   scanf(%d, &b);
   int c;
   c = a + b;
-  printf(c);
+  printf("%d", c);
   }
   
